@@ -35,9 +35,9 @@ Git - good practices
         * wróć na feature branch
         * zmerguj do siebie zmiany z lokalnego developa
         * wypchnij feature branch do swojego zdalnego repo
-        * zgłoś pull request :)
-        * w razie problemów powtórz
-
+        * zgłoś pull request:)
+        * w razie problemów powtórz :)
+    
 
 Git - przydatne komendy
 git status
